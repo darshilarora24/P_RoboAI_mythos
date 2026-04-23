@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Kye Gomez
+Copyright (c) 2026 P RoboAI Innovation(OPC) Private Limited
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+ATTRIBUTION
+
+This software is based on OpenMythos, originally created by Kye Gomez.
+Source: https://github.com/kyegomez/OpenMythos
+Original license: MIT License, Copyright (c) 2026 Kye Gomez
+
+---
+
+ADDITIONAL NOTICE
+
+OpenMythos is an independent, community-driven research project. It is a
+theoretical reconstruction based solely on publicly available research,
+academic papers, and community speculation.
+
+OpenMythos is NOT affiliated with, endorsed by, sponsored by, or connected
+to Anthropic PBC or any of its products, including Claude or Claude Mythos,
+in any official capacity. All trademarks referenced belong to their
+respective owners.
+
+The software is provided for research and educational purposes. Users are
+solely responsible for ensuring their use complies with applicable laws,
+regulations, and third-party terms of service.
